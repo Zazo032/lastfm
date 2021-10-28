@@ -1,0 +1,31 @@
+{
+    "@@locale": "en",
+    "appBarTitle": "LastFM",
+    "@appBarTitle": {
+        "description": "Text shown in the AppBar"
+    },
+    "inputFieldLabel": "Search tracks",
+    "@inputFieldLabel": {
+        "description": "Text shown as a label for the search input field"
+    },
+    "searchEmpty": "No results found",
+    "@searchEmpty": {
+        "description": "Text shown when there are no search results"
+    },
+    "searchPlaceholder": "Search something to view the tracks",
+    "@searchPlaceholder": {
+        "description": "Text shown when the search's text field is empty (search not started)"
+    },
+    "trackLabel": "Track",
+    "@trackLabel": {
+        "description": "Text shown over the track name in the track details page"
+    },
+    "artistLabel": "Artist",
+    "@artistLabel": {
+        "description": "Text shown over the artist name in the track details page"
+    },
+    "listenersLabel": "Listeners",
+    "@listenersLabel": {
+        "description": "Text shown over the listeners count in the track details page"
+    }
+}
